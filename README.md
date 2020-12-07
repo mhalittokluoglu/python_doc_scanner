@@ -53,3 +53,5 @@ After that there will be a pdf in the current directory and the thresholded imag
 
 You can reduce your pdf size from online pdf compressor sites.
 
+Youtube video about the app:
+https://youtu.be/cbdWm7QBWl4
